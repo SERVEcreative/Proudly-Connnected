@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rahul Kumar/Desktop/HIGuyZ/ProudlyConnected/app/src/main/res/layout/activity_dashboardscreen.xml" value="0.1578125" />
+        <entry key="..\:/Users/Rahul Kumar/Desktop/HIGuyZ/ProudlyConnected/app/src/main/res/layout/activity_login.xml" value="0.1578125" />
+        <entry key="..\:/Users/Rahul Kumar/Desktop/HIGuyZ/ProudlyConnected/app/src/main/res/layout/activity_new_signup.xml" value="0.1578125" />
+        <entry key="..\:/Users/Rahul Kumar/Desktop/HIGuyZ/ProudlyConnected/app/src/main/res/layout/activity_signupactivity.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Rahul Kumar/Desktop/HIGuyZ/ProudlyConnected/app/src/main/res/layout/item.xml" value="0.1578125" />
+        <entry key="..\:/desktop/HIGuyZ/ProudlyConnected/app/src/main/res/drawable/bottom_item.xml" value="0.141" />
+        <entry key="..\:/desktop/HIGuyZ/ProudlyConnected/app/src/main/res/drawable/radius_background_white.xml" value="0.141" />
+        <entry key="..\:/desktop/HIGuyZ/ProudlyConnected/app/src/main/res/drawable/textbox.xml" value="0.141" />
+        <entry key="..\:/desktop/HIGuyZ/ProudlyConnected/app/src/main/res/layout/activity_dashboardscreen.xml" value="0.14130434782608695" />
+        <entry key="..\:/desktop/HIGuyZ/ProudlyConnected/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/desktop/HIGuyZ/ProudlyConnected/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/desktop/HIGuyZ/ProudlyConnected/app/src/main/res/layout/activity_new_signup.xml" value="0.17552083333333332" />
+        <entry key="..\:/desktop/HIGuyZ/ProudlyConnected/app/src/main/res/layout/activity_splash.xml" value="0.17135416666666667" />
+        <entry key="..\:/desktop/HIGuyZ/ProudlyConnected/app/src/main/res/layout/activity_video_call.xml" value="0.17135416666666667" />
+        <entry key="..\:/desktop/HIGuyZ/ProudlyConnected/app/src/main/res/layout/activity_voice_call.xml" value="0.17135416666666667" />
+        <entry key="..\:/desktop/HIGuyZ/ProudlyConnected/app/src/main/res/layout/dialog_with_one_button.xml" value="0.17552083333333332" />
+        <entry key="..\:/desktop/HIGuyZ/ProudlyConnected/app/src/main/res/layout/item.xml" value="0.4466666666666667" />
+        <entry key="..\:/desktop/HIGuyZ/ProudlyConnected/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1385" />
+        <entry key="..\:/desktop/HIGuyZ/ProudlyConnected/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1385" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581906149904",
+    "project_id": "proudlyconnected-69de0",
+    "storage_bucket": "proudlyconnected-69de0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581906149904:android:c2a36b174c51a4a3661095",
+        "android_client_info": {
+          "package_name": "com.servecreative.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581906149904-3sir8g5jlppdrq473g9coh9g0brjo6bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAzO7-y-r3J_Dolf3rpv5vq8d4MF9qAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581906149904-3sir8g5jlppdrq473g9coh9g0brjo6bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
